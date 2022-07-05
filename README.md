@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/98228696/170922485-45bf8c4a-51e7-40ad-b176-9b7355f77a99.png)
 
-These dataset contains the information as per the given belo: 
+These dataset contains the information as per the given below: 
 
 ## Dataset link
 [Click Here to Download Dataset](https://docs.google.com/spreadsheets/d/10zSJAY-HR4re1YnE0K759Jy0kv_MtL2R/edit#gid=1664036840)
